@@ -8,13 +8,10 @@
 	 [+] by AbuBaker Al Nour - twitter : @b7kr17
 
 ## Describtion
-A bash script that manages folders within a Linux system.
-Basically a day by arranging the contents of any folder by specifying the extension of the files within the folder and arranging all the files with the same extension in one folder with the extension a name
+A script that fetches results from a website
+https://crt.sh
 
-Or delete a folder with its contents
-
-Note
-Dealing with only one folder
+It is more accurate and tidy
 
 
 ## Installation :
