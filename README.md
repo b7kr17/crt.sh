@@ -16,7 +16,7 @@ It is more accurate and tidy
 
 ## Installation :
 - Install with git: `git clone https://github.com/b7kr17/crt.sh.git`
-- Install with ZIP file: [Download here](https://github.com/b7kr17/manage_dir/archive/refs/heads/main.zip)
+- Install with ZIP file: [Download here](https://github.com/b7kr17/crt.sh/archive/refs/heads/main.zip)
 
 ## Usage :
 - After Download `cd manage_dir/ && sudo chmod +x manage_dir`
