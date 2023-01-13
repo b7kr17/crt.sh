@@ -1,17 +1,24 @@
 import requests
 import re
 import time
+from colorama import Fore 
 
 def bunner():
-	print("""
-	            _         _     
-	   ___ _ __| |_   ___| |__  
-	  / __| '__| __| / __| '_ \ 
-	 | (__| |  | |_ _\__ \ | | |
-	  \___|_|   \__(_)___/_| |_|
-  	
-	 [+] by AbuBaker Al Nour - twitter : @b7kr17
-	""")
+	logo="""
+	 ██████╗██████╗ ████████╗███████╗██╗  ██╗
+        ██╔════╝██╔══██╗╚══██╔══╝██╔════╝██║  ██║
+        ██║     ██████╔╝   ██║   ███████╗███████║
+        ██║     ██╔══██╗   ██║   ╚════██║██╔══██║
+        ╚██████╗██║  ██║   ██║██╗███████║██║  ██║
+         ╚═════╝╚═╝  ╚═╝   ╚═╝╚═╝╚══════╝╚═╝  ╚═╝
+                 
+	"""
+	text = """
+	[+] by AbuBaker Al Nour - twitter : @b7kr17
+	"""
+	print(Fore.RED+logo)
+	
+	print("\033[0;32;48m"+text)
 def request(org):
 	url = "https://crt.sh/?"
 	params = {"q":f"{org}"}
@@ -40,9 +47,9 @@ def request(org):
 	else:
 		print("time out")
 bunner()
+
  
 
 x = input("Enter domain :")
 request(x)
-
 
