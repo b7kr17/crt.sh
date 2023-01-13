@@ -19,15 +19,9 @@ It is more accurate and tidy
 - Install with ZIP file: [Download here](https://github.com/b7kr17/crt.sh/archive/refs/heads/main.zip)
 
 ## Usage :
-- After Download `cd manage_dir/ && sudo chmod +x manage_dir`
+- After Download `cd crt.sh/`
 
-- Use  :`sudo manage_dir -option <dir name or full path>`
-- E.g  :`sudo manage_dir --sort /home/bakri/Downloads`
+- Use  :`python3 crt.py`
+- 
 
-## Option :
- - show help | option `sudo manage_dir --help`
- 
-		      --sort   | -s       :sort file in directory
-    	      --delete | -d       :delete directory
-              --help   | -h       :how this menu
 
