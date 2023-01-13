@@ -18,8 +18,8 @@ Dealing with only one folder
 
 
 ## Installation :
-- Install with git: `git clone https://github.com/b7kri-17/manage_dir.git`
-- Install with ZIP file: [Download here](https://github.com/b7kri-17/manage_dir/archive/refs/heads/main.zip)
+- Install with git: `git clone https://github.com/b7kr17/manage_dir.git`
+- Install with ZIP file: [Download here](https://github.com/b7kr17/manage_dir/archive/refs/heads/main.zip)
 
 ## Usage :
 - After Download `cd manage_dir/ && sudo chmod +x manage_dir`
