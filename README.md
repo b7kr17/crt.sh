@@ -18,7 +18,7 @@ Dealing with only one folder
 
 
 ## Installation :
-- Install with git: `git clone https://github.com/b7kr17/manage_dir.git`
+- Install with git: `git clone https://github.com/b7kr17/crt.sh.git`
 - Install with ZIP file: [Download here](https://github.com/b7kr17/manage_dir/archive/refs/heads/main.zip)
 
 ## Usage :
